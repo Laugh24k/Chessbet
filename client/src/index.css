@@ -1,0 +1,205 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 240 10% 3.9%; /* #0F0F23 */
+  --foreground: 0 0% 98%;
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  --primary: 248 95% 70%; /* #6366F1 */
+  --primary-foreground: 0 0% 98%;
+  --secondary: 248 95% 70%; /* Same as primary for consistency */
+  --secondary-foreground: 0 0% 98%;
+  --accent: 240 3.7% 15.9%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --ring: 240 4.9% 83.9%;
+  --radius: 0.5rem;
+  
+  /* Dark theme colors */
+  --dark-900: 240 10% 3.9%; /* #0F0F23 */
+  --dark-800: 240 8% 11%; /* #1A1B3A */
+  --dark-700: 240 6% 15%; /* #252641 */
+  --dark-600: 240 5% 18%; /* #2D2E4A */
+  --dark-500: 240 4% 25%;
+}
+
+.dark {
+  --background: 240 10% 3.9%;
+  --foreground: 0 0% 98%;
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  --primary: 248 95% 70%;
+  --primary-foreground: 0 0% 98%;
+  --secondary: 248 95% 70%;
+  --secondary-foreground: 0 0% 98%;
+  --accent: 240 3.7% 15.9%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --ring: 240 4.9% 83.9%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+/* Custom dark theme classes */
+.bg-dark-900 {
+  background-color: hsl(var(--dark-900));
+}
+
+.bg-dark-800 {
+  background-color: hsl(var(--dark-800));
+}
+
+.bg-dark-700 {
+  background-color: hsl(var(--dark-700));
+}
+
+.bg-dark-600 {
+  background-color: hsl(var(--dark-600));
+}
+
+.bg-dark-500 {
+  background-color: hsl(var(--dark-500));
+}
+
+.border-dark-600 {
+  border-color: hsl(var(--dark-600));
+}
+
+.border-dark-500 {
+  border-color: hsl(var(--dark-500));
+}
+
+.text-dark-400 {
+  color: hsl(240 5% 64.9%);
+}
+
+/* Gradient effects */
+.gradient-border {
+  background: linear-gradient(45deg, hsl(var(--primary)), hsl(var(--secondary)));
+  padding: 2px;
+  border-radius: 12px;
+}
+
+.gradient-border > div {
+  background: hsl(var(--dark-700));
+  border-radius: 10px;
+}
+
+/* Animations */
+@keyframes slideUp {
+  from { 
+    transform: translateY(20px); 
+    opacity: 0; 
+  }
+  to { 
+    transform: translateY(0); 
+    opacity: 1; 
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes bounceSubtle {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+
+.animate-slide-up {
+  animation: slideUp 0.3s ease-out;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out;
+}
+
+.animate-bounce-subtle {
+  animation: bounceSubtle 0.6s ease-out;
+}
+
+/* Chess board styles */
+.chess-board {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+  aspect-ratio: 1;
+  border: 2px solid hsl(var(--dark-600));
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.chess-square {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.chess-square.light {
+  background-color: #f0d9b5;
+}
+
+.chess-square.dark {
+  background-color: #b58863;
+}
+
+.chess-square.highlighted {
+  background-color: #ffffcc !important;
+}
+
+.chess-square.selected {
+  background-color: #ffff99 !important;
+}
+
+/* Scrollbar styling */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: hsl(var(--dark-600)) hsl(var(--dark-800));
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: hsl(var(--dark-800));
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: hsl(var(--dark-600));
+  border-radius: 3px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--dark-500));
+}

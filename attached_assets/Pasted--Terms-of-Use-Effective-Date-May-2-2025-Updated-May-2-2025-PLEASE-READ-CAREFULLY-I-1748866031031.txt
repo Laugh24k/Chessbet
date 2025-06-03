@@ -1,0 +1,546 @@
+
+Terms of Use
+
+Effective Date: May 2, 2025
+
+
+Updated: May 2, 2025
+
+PLEASE READ CAREFULLY - IMPORTANT BETA DISCLAIMER
+
+THIS PLATFORM AND THE GAMES OFFERED HEREIN ARE CURRENTLY IN BETA TESTING PHASE. BY ACCESSING OR USING THE PLATFORM AND PARTICIPATING IN ANY GAMES INVOLVING SMART CONTRACTS, YOU ACKNOWLEDGE AND AGREE TO THE FOLLOWING:
+
+BETA SOFTWARE: The Platform and its Games are under development and may contain errors, bugs, and unforeseen issues that could affect gameplay and assets.
+SMART CONTRACT RISK: PARTICIPATION IN GAMES INVOLVING SMART CONTRACTS CARRIES A SIGNIFICANT RISK OF FINANCIAL LOSS. ONCE FUNDS ARE SENT TO A SMART CONTRACT, THEY ARE GOVERNED BY ITS CODE.
+FORFEITURE OF FUNDS IN BETA: YOU EXPLICITLY ACKNOWLEDGE AND AGREE THAT BY SENDING MONEY INTO A SMART CONTRACT WITHIN THIS BETA PLATFORM, YOU ARE ASSUMING THE RISK OF FORFEITURE OF THOSE FUNDS. While Blend Station Gaming LLC ("Noodle") has no intention of intentionally taking user funds, if the game or the underlying smart contract malfunctions, experiences errors, or otherwise results in the loss of your funds, IT IS NOT NOODLE'S RESPONSIBILITY TO RECOVER OR REIMBURSE THOSE FUNDS.
+NO GUARANTEED OUTCOME: By participating in this beta, you acknowledge that you are doing so at your own risk and YOU SHOULD NOT EXPECT ANY SPECIFIC OUTCOME, INCLUDING THE RETURN OF ANY FUNDS SENT TO A SMART CONTRACT.
+ACKNOWLEDGEMENT OF RISK: By using this beta platform and interacting with smart contracts, you expressly acknowledge and accept these inherent risks and agree that Noodle shall not be liable for any loss of funds incurred during this beta testing phase due to software errors, smart contract issues, or any other unforeseen circumstances.
+BY CONTINUING TO ACCESS OR USE THE PLATFORM, YOU AFFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS BETA DISCLAIMER IN ITS ENTIRETY, IN ADDITION TO ALL OTHER TERMS AND CONDITIONS CONTAINED WITHIN THIS AGREEMENT.
+
+IMPORTANT: YOU CONTROL YOUR WALLET FUNDS
+
+PLEASE UNDERSTAND THAT THE DIGITAL WALLET PROVIDED TO YOU ON THE NOODLE PLATFORM IS A SELF-CUSTODIAL WALLET. THIS MEANS THAT YOU, AND ONLY YOU, HAVE CONTROL OVER THE FUNDS HELD WITHIN YOUR WALLET. NOODLE DOES NOT HAVE ACCESS TO YOUR WALLET OR YOUR PRIVATE KEYS. YOU ARE SOLELY RESPONSIBLE FOR SECURING YOUR WALLET CREDENTIALS. FOR MORE DETAILED INFORMATION ABOUT YOUR RESPONSIBILITIES REGARDING YOUR SELF-CUSTODIAL WALLET, PLEASE REFER TO SECTION 6 OF THESE TERMS.
+
+Blend Station Gaming LLC provides its services through the following entities (together referred to as "Noodle"):
+
+
+Noodle's website (“Website”), mobile application(s) (“App(s)”), and all services provided through the Website and App(s), including as related to Games and Lobbies (collectively, the “Services”) form the Noodle platform (“Platform”) Certain features of the Platform may be subject to additional guidelines, terms, or rules (collectively, “Additional Terms”), which will be posted on the Website or otherwise through the Platform in connection with such features. References to “you” and “your” refer to you, a user of the Platform.
+
+
+THESE TERMS OF USE AND ALL APPLICABLE ADDITIONAL TERMS FORM THE FULL LEGALLY BINDING AGREEMENT BETWEEN NOODLE AND YOU REGARDING YOUR ACCESS TO AND USE OF THE PLATFORM (COLLECTIVELY, “AGREEMENT”). BY ACCESSING OR USING THE PLATFORM, YOU ARE ACCEPTING THIS AGREEMENT AND YOU REPRESENT AND WARRANT THAT YOU HAVE THE RIGHT, AUTHORITY, AND CAPACITY TO ENTER INTO THIS AGREEMENT. YOU MAY NOT ACCESS OR USE THE PLATFORM OR ACCEPT THE AGREEMENT IF YOU DO NOT HAVE THE CAPACITY TO ENTER INTO THIS AGREEMENT. IF YOU DO NOT AGREE WITH ALL OF THE PROVISIONS OF THIS AGREEMENT, DO NOT ACCESS OR USE THE PLATFORM.
+
+
+PLEASE READ THESE TERMS CAREFULLY, AS THEY CONTAIN AN AGREEMENT TO ARBITRATE AND OTHER IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES, AND OBLIGATIONS. THE AGREEMENT TO ARBITRATE REQUIRES (WITH LIMITED EXCEPTION) THAT YOU SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION, AND FURTHER
+
+
+(1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST NOODLE ON AN INDIVIDUAL BASIS, NOT AS A CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, AND (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS.
+
+
+1.   PRIVACY.
+
+In the course of using the Platform, you may submit User Data (as defined below), including personal information, to Noodle. Noodle’s Privacy Policy details how we treat your User Data. We agree to abide by the Noodle Privacy Policy and you agree that Noodle may use and share your User Data in accordance with the Noodle Privacy Policy and applicable data privacy and protection laws.
+
+
+2.   ACCOUNTS.
+
+2.1  Account Eligibility and Creation. In order to use the Platform, you must register for an account with Noodle (“Noodle Account”) and provide certain information about yourself as prompted by the registration form. A user may only have and maintain one account.
+
+
+(1) Noodle Account. ANY ATTEMPT TO CREATE MORE THAN ONE ACCOUNT IS A BASIS FOR IMMEDIATE TERMINATION OF ALL ACCOUNTS AND THE FORFEITURE OF ALL BALANCES ASSOCIATED WITH SUCH ACCOUNTS. You represent and warrant that: (i) all required registration information you submit is truthful and accurate; (ii) you will maintain the accuracy of such information at all times; and (iii) you meet the following account eligibility criteria:
+
+
+(a)  you are at least eighteen (18) years old;
+
+
+(b)  in order to participate in a real-money Lobby, you are physically located in a location that is explicitly identified as an Eligible Location (defined below);
+
+
+(c)  you have not been banned by Noodle for any reason; and
+
+
+(d)  you have a personal United States telephone number.
+
+
+2.2   Verification of Account Information.
+
+Noodle reserves the right to verify the eligibility of any user at any time, during or after account creation, including by asking the user to provide identification or verify the user’s age and/or physical location. If you do not provide accurate eligibility information, or if Noodle cannot reasonably verify your eligibility information as accurate, Noodle may suspend or terminate your Noodle Account and you agree that you forfeit any balance associated with your Noodle Account, if any. Noodle may suspend or terminate your Noodle Account as provided in this Agreement, regardless of whether you meet the eligibility criteria provided herein.
+
+
+2.3   Eligible Locations, Compliance With Laws.
+
+Noodle restricts all real money gameplay to locations in which Noodle believes it is allowed to operate real money lobbies (the "Eligible Locations"). Notwithstanding this, you agree that you are responsible for knowing and understanding the law applicable to you and you agree that you will not use the Noodle services in any location in which such services are not allowed.
+
+
+Additionally, if there exists a limit on gameplay in any jurisdiction in which you access the paid lobbies you agree that you will not exceed any amount of gameplay that would result in a claim against Noodle or any other user of the Noodle system.
+
+
+“Eligible Location(s)” means a location from which access to and/or use of the Platform for the purpose of participating in real-money lobbies is permitted. You may access and use the Platform from other locations, but you must be in an Eligible Location to participate in real-money lobbies. Use of and/or access to the Platform to participate in a real-money lobby from any location that is not an Eligible Location is strictly prohibited.  The following states or jurisdictions within the United States are Eligible Locations: Alabama, Alaska, California, Colorado, the District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Maryland, Massachusetts, Minnesota, Missouri, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, Texas, Utah, Vermont, Virginia, West Virginia, Washington, Wisconsin, and Wyoming. The Eligible Locations may be subject to change at any time at Noodle’s sole discretion. In the event a location from which you are participating in a real-money lobby is no longer an Eligible Location, the lobby will end and all buy-ins will be returned.
+
+
+2.4   Account Deletion.
+
+You may delete your Noodle Account at any time, for any reason, through the application or by sending an email request to blendstationgaming@gmail.com
+
+
+2.5   Account Responsibilities.
+
+Each user is responsible for maintaining the confidentiality of the user’s Noodle Account login information and each user shall be fully responsible for all activities that occur under the user’s Noodle Account. You are responsible for understanding the self-custodial nature of your Noodle Wallet and for taking all necessary precautions to secure your Wallet credentials. Any loss of access to your Wallet or its credentials is your sole responsibility, and Noodle bears no liability for such loss. A Noodle App may be accessible from an unlocked computer or phone, you should maintain control over your computer or phone and employ safeguards to prevent unauthorized access to the Noodle Website. You are responsible for maintaining access to the Noodle Website within your sole control and any conduct by a third person on the Noodle Website gained by using or accessing your phone is your responsibility and you agree that you are liable for deposits made by others who use your phone, unless applicable law does not allow the imposition of such responsibility.  Even if your financial institution reverses charges incurred you will remain liable to Noodle for deposits or other transactions made by you or others that access your phone with your permission or as the result of a failure to adequately protect your account.  You agree that you will immediately notify Noodle of any unauthorized use, or suspected unauthorized use, of your Noodle Account or any other breach of security. Each user account is to be used solely for access to the Platform by the assigned user. Noodle ACCOUNTS ARE NOT TO BE USED OR SHARED BY MORE THAN ONE INDIVIDUAL; DOING SO SHALL BE A BASIS FOR IMMEDIATE TERMINATION OF THE APPLICABLE Noodle ACCOUNT(S).
+
+
+2.6   Authorization for Contact.
+
+Each user, by creating an account, authorizes Noodle to contact the user electronically by phone, email, text message, notification, or other electronic means in order to: (i) confirm information about the user; (ii) confirm information submitted by the User; (iii) resolve customer support issues; (iv) request information about the user’s use of the Platform; (v) provide account status information to the user; or (v) take any action in furtherance of this Agreement. This authorization will continue for the term of this Agreement. In order to terminate this Authorization the user must send a notice to blendstationgaming@gmail.com and terminate all use of the Platform except for the Noodle App solely for the purposes of withdrawal or, alternatively,  unsubscribe electronically by following the "stop" or "unsubscribe" information contained in any communication sent to the user.
+
+
+3.   USE OF PLATFORM.
+
+
+3.1 Limited License. Subject to the terms of this Agreement, Noodle grants you a limited, revocable, non- transferable, non-exclusive license to access and use the Platform for your own personal use in accordance with this Agreement. Your use of the Platform is solely to interact with self-custodial Wallets and Smart Contracts, over which Noodle has no direct control or custody. For the avoidance of doubt, your use of any software made available by Noodle in connection with your access to and use of the Platform shall be limited to use of the executable object code format only.  
+
+Specifically, and without limitation, your access to, or attempt to access, any source code of the Platform to cheat or for any other unauthorized purpose shall be a basis for immediate termination of your Noodle Account.
+
+
+
+3.2   Acceptable Use and Restrictions.
+
+The rights granted to you in the Agreement are subject to the following rules for acceptable use and restrictions:
+
+
+(a)  you shall not access or use the Platform for any purpose other than that for which Noodle makes the Platform available;
+
+
+(b)  you shall not use the Platform in connection with any commercial endeavors except those that are specifically endorsed or approved by Noodle, including to advertise or offer to sell any goods or services on the Platform or to collect usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email;
+
+
+(c)  except as expressly permitted by Noodle in advance in writing, you shall not license, sell, rent, lease, transfer, assign, distribute, or host the Platform to or for a third party;
+
+
+(d)  you shall not trick, defraud, or mislead Noodle or other users, especially in any attempt to learn sensitive account information, such as user passwords;
+
+
+(e)  you shall not attempt to impersonate another user or person or use the username of another user;
+
+
+(f)  you shall not use any information obtained from the Platform in order to harass, abuse, or harm another person;
+
+
+(g)  you shall not sell or otherwise transfer your Noodle Account;
+
+
+(h)  you shall not make improper use of our support services or submit false reports of abuse or misconduct;
+
+
+(i)  you shall not modify, make derivative works of, disassemble, reverse compile, or reverse engineer any part of the Platform;
+
+
+(j)  you shall not circumvent, disable, or otherwise interfere with security-related features of the Platform, including features that prevent or restrict the use or copying of any content or enforce limitations on the use of the Platform or the content contained therein, nor attempt to bypass any measures of the Platform designed to prevent or restrict access to the Platform, or any portion of the Platform;
+
+
+(k)  you shall not access the Platform in order to build a similar or competitive product or service, or to compete with Noodle in any way;
+
+
+(l)  you shall not disparage, tarnish, or otherwise harm Noodle or the Platform, as determined by Noodle in its discretion;
+
+
+(m)  except as expressly stated herein or otherwise permitted by Noodle in advance in writing, no part of the Platform may be copied, reproduced, distributed, republished, downloaded, displayed, posted, or transmitted in any form or by any means (including by, e.g., scraping, mirroring, framing, embedding, or linking);
+
+
+(n)  you shall not systematically retrieve data or other content from the Platform to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from Noodle, nor shall you upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”);
+
+
+(o)  except as may be the result of standard search engine or Internet browser usage, you shall not engage in any automated use of the Platform, such as using creating user accounts by automated means, using scripts to send comments or messages, using any buying or purchasing agent to make purchases from or through the Platform, or using any data mining, robots, or similar data gathering and extraction tools;
+
+
+(p)  you shall not interfere with, disrupt, or create an undue burden on the Platform or the networks or services connected to the Platform;
+
+
+(q)  you shall not upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material that modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Platform, nor use the Platform in any manner that interferes with another user’s uninterrupted use and enjoyment of the Platform (such as, e.g., excessive use of capital letters, spamming, the continuous posting of repetitive text, or other abusive, harassing, or obnoxious behavior, as determined by Noodle in its discretion);
+
+
+(r)  you shall not harass, annoy, intimidate, or threaten any Noodle employee, agents, or service provider engaged in providing any portion of the Platform to you;
+
+
+(s)  your use of the Platform shall at all times comply with all applicable laws and regulations and all applicable terms and conditions of any Third-Party Services (as defined below) upon which use of our Platform depends (as addressed further below); and
+
+
+(t)  all copyright and other proprietary notices included within the Platform and on content made available through the Platform must be retained and not modified or obscured.
+
+
+3.3   Modification.
+
+Noodle reserves the right, at any time, to modify, suspend, or discontinue the Platform, including the Website or Services, or any part thereof, with or without notice. You agree that Noodle will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Platform, or any part thereof. Any future release, update, or other addition to functionality of the Platform shall be subject to the terms of this Agreement.
+
+
+3.4   Ownership.
+
+Excluding User Data (as defined below), you acknowledge that all intellectual property rights in and to: (a) the Platform; (b) all names, logos and trademarks used with the Platform; and (c) all content made available by Noodle through the Platform, including but not limited to designs, data and databases, text, graphics, images, photographs, illustrations, audio and video material, artwork, proprietary information, client- and server-side code (e.g., HTML, JavaScript, active server pages, VBScript, databases, or any other code files) are owned by Noodle or Noodle’s licensors. The provision of the Platform does not transfer to you or any third party any rights, title, or interest in or to such intellectual property rights. Noodle and its licensors reserve all rights not granted in this Agreement.
+
+
+3.5   Third-Party Services.
+
+The Platform is designed to interoperate with certain third-party services that are not under the control of or maintained by Noodle (“Third-Party Services”). Certain Third- Party Services are integrated into the basic operation of the Platform and certain Third- Party Services may be added by you for additional fees. You must agree to and you must abide by the terms and conditions of any applicable Third-Party Services, and your violation of the applicable terms and conditions of any such Third-Party Services shall be a violation of this Agreement. Noodle is not responsible for the content of, or any transactions you process on or through, any Third-Party Services. Noodle does not make any representations or warranties about Third-Party Services, or any information, materials, or products found thereon. To the extent that Noodle provides links or references to any Third-Party Services, you acknowledge that Noodle provides them to you solely as a convenience to you. In no event shall Noodle be liable for any loss, claim, damages, costs, or negative experiences that may arise in connection with your access to or use of any Third-Party Services independent of or not directly caused by the Platform, including, without limitation, any transactions processed by you on or through such Third-Party Services. Specifically, and without limitation, you agree to the terms and conditions applicable to the following Third-Party Services.
+
+
+3.6   User Responsibilities.
+
+3.6 User Responsibilities. In connection with using the Platform and participating in any Game or Lobby, each user is responsible for—and Noodle fully disclaims and is released from any responsibility for:
+
+(a) the user’s own devices and telecommunications connections, services, and fees... (b) the availability, quality, latency, and continuity of the user’s telecommunications connections and services... (c) the user’s remaining actively and properly involved in a lobby during its duration; and (d) all other factors that may impact a user’s own participation in a Game or lobby.  
+
+Additionally, and specifically regarding your Noodle Wallet and Smart Contract interactions, you are solely responsible for:
+
+(e) Understanding and managing your self-custodial Wallet, including the security of private keys and seed phrases. (f) Ensuring the accuracy of all transactions and interactions with Smart Contracts, as these are typically irreversible and outside of Noodle's control.
+
+ANY LOSS, LIMITATION, OR NEGATIVE EXPERIENCE A USER SUSTAINS IN CONNECTION WITH ANY OF THE FOREGOING SHALL NOT ENTITLE THE USER TO A REFUND OR ANY OTHER REMEDY. IF A USER’S DEVICE IS UNABLE TO SUBMIT A SCORE TO THE PLATFORM FOR ANY REASON, THE USER WILL AUTOMATICALLY BE GIVEN A SCORE OF ZERO. IF A USER EXITS OUT OF A GAME OR LOBBY THE USER’S SCORE WILL BE REPORTED AS THE LAST VALID SCORE SUBMITTED FROM THE USER’S DEVICE, IF IT IS AVAILABLE TO NOODLE.  
+
+IN CERTAIN JURISDICTIONS, MORE PARTICULARLY BUT NOT LIMITED TO THE STATE OF ILLINOIS, PLAYING REAL CASH LOBBY IS ALLOWED BUT THE DEVICE ON WHICH SUCH LOBBIES ARE PLAYED MAY BE SUBJECT TO FORFEITURE AND THE USER SPECIFICALLY ASSUMES ANY RISK OF FORFEITURE OF THEIR DEVICE.
+
+
+3.7   Bank Secrecy Act - Anti-Money Laundering Policies
+
+You agree that you have read the Noodle BSA-AML Policy and that Noodle may take any action indicated under the BSA-AML Policy. By using the Platform you represent that you are not on any Specially Designated Nationals or Blocked Persons list (”SDN”) maintained by the US Office of Foreign Assets Control.
+
+
+4.   USER CONTENT.
+
+4.1   User Data.
+
+“User Data” means any and all information and content that is input into the Platform by or on behalf of a user except for the Payment Data, defined below. You acknowledge and agree that Noodle is not responsible for any User Data, including its accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality, or any other aspect thereof. Noodle does not assume and will not have any liability or responsibility to you or any other person or user for your use or misuse of any User Data.
+
+
+4.2   User Data Responsibilities.
+
+Noodle is not obligated to backup any User Data and you are solely responsible for creating backup copies of your User Data, if you desire.
+
+
+4.3   Right to Remove Data.
+
+You agree that Noodle has the right to remove any content, including User Data, from the Platform at any time, with or without cause. Noodle also has the right to refuse, move, or block access to any material submitted on or through the Platform, and to establish general practices and limits concerning use of the Platform. The decision of whether or not to remove content from the Platform is within Noodle’s sole and complete discretion. Noodle has no obligations, contractual or otherwise, to take or refrain from taking any action. Under no circumstances will Noodle be liable for removing or failing to remove any content.
+
+
+4.4   License.
+
+You hereby grant, and you represent and warrant that you have the right to grant, to Noodle an irrevocable, perpetual, non-exclusive, royalty-free and fully-paid, worldwide license to use, reproduce, distribute, publicly display and perform, modify, adapt, prepare derivative works of, incorporate into other works, and otherwise exploit your User Data, and to grant sublicenses of the foregoing, for the purposes of providing the Platform to you, for any specific purpose identified in connection with our solicitation or collection of your User Data, and as otherwise permitted by our Privacy Policy. More specifically, and without limitation, you agree that we may process your User Data to create aggregated and/or de-identified data sets used to improve the Platform, including to use such data for algorithm development, machine learning, and the creation and development of other features and functionality. For the avoidance of doubt, except where limited by applicable law, this license continues even after you stop using the Platform, including without limitation with respect to aggregate and/or de-identified data derived from your User Data and any residual backup copies of your User Data made in the ordinary course of our business. You agree to irrevocably waive (and cause to be waived) any claims and assertions of moral rights or attribution with respect to your User Data.
+
+
+4.5   Feedback.
+
+If you provide Noodle any feedback or suggestions regarding the Platform (“Feedback”), you hereby assign to Noodle all rights (including all intellectual property rights) in and to the Feedback and agree that Noodle shall have the right to use such Feedback and related information in any manner it deems appropriate. Noodle will treat any Feedback you provide to Noodle as non-confidential and non-proprietary. You agree that you will not submit to Noodle any Feedback that you consider to be confidential or proprietary.
+
+
+4.6   Other Users.
+
+Each user of the Platform is solely responsible for any and all of such user’s User Data. You acknowledge and agree that we are not responsible for any User Data and we make no guarantees regarding the accuracy, currency, suitability, or quality of any User Data and we assume no responsibility for any User Data. The Platform provide features and functionality by which you may interact with one or more other users. You agree that, regardless of whether Noodle personnel is present or not and regardless of whether Noodle personnel intervene or not, Noodle has no obligation to restrict or prohibit your interaction with other users, and Noodle will not be responsible for any loss or damage incurred as the result of your interactions with other users. If there is a dispute between you and any other user, we are under no obligation to become involved.
+
+
+4.7   Sharing of User Information.
+
+The Platform may provide information from or about users using the Platform to other users. Currently the Platform allows other users to view your game play. Noodle makes commercially reasonable efforts to indicate clearly when a user is using a feature that permits the sharing of information with other users. Noodle does not and cannot verify all information provided by users. Noodle does not control, and makes no representations or warranties as to, the identity, character, or behavior of any user, and Noodle disclaims, and you release Noodle from, any and all liability relating thereto. Users should exercise caution and judgment when interacting with other users, in both online and offline interactions, as when interacting with any other individual a user does not know. In certain circumstances where a user is located in a specific jurisdiction they may be entitled to release of other contestants information pursuant to applicable law. To the extent that such a release is required by applicable law the user to whom it is requested and release will keep all such information confidential and shall not publicly disclose or release any of the names or other information of other users. Noodle makes no representation or warranty as to the accuracy of the information supplied by users. Users acknowledge and agree to the release of such information where required by applicable law and waive any claims against Noodle for the misuse or disclosure of such release by a user to whom such information is required to be released.
+
+
+
+5.   GAMES AND LOBBIES
+
+5.1   Games and Lobby Types.
+
+As used in the Agreement, a “Game” is an application, website, or other online service or offering that a user plays, using the user’s skill, to achieve a certain score. A “Lobby” is a competitive format for users to play a Game that permits the wagering of real money on the users’ participation in and outcome of the Game. The Lobby is ongoing and users may enter and exit the lobby as permitted by the platform.
+
+
+
+5.2   Lobby and Other Fees.
+
+
+5.2.1 Lobby Fees
+
+
+Noodle charges fees of 5% upon the death of a user in the Lobby. This fee is variable and may change without a written update to this agreement.
+
+
+5.3   Lobby Participation.
+
+A user may participate in a Lobby by entering the Lobby within the Platform. For each Lobby into which a user enters, the user’s entry indicates that the user affirmatively acknowledges and agrees:
+
+
+(a)  to pay the specified and non-refundable entry fee before gameplay commences;
+
+
+(b)  it is the user’s responsibility to understand and abide by the rules of the Game and of the Lobby;
+
+
+(c)  to accept the outcome of the Lobby, which shall in all cases be finally determined by Noodle based on the scores of the users and according to the process provided below, in its discretion;
+
+
+(d)  that Noodle shall take a fee from every Lobby;
+
+
+(e)  that Noodle reserves the right to take a variable percentage fee from Lobby prize pools;
+
+
+(f)  that the User understands the gameplay
+
+5.4 Lobby Outcome.
+
+Once a player's participation in a Lobby ends (e.g., through elimination or choice to leave, subject to any cashout restrictions), the outcome for that player within that specific instance of Lobby participation shall be as follows:
+
+(a) Successful Participation: A user may realize a net gain if, upon choosing to leave the Lobby (and being permitted to cash out), their remaining balance is greater than the amount they initially deposited or any subsequent deposits made during that specific Lobby session. The criteria for a "winning position" as described in the original Section 5.4(a) are not directly applicable in this model, as outcomes are tied to individual player survival and decisions within the Lobby.
+
+(b) Unsuccessful Participation: A user experiences a loss if, upon elimination within the Lobby, their balance is reduced to zero, or if, upon choosing to leave (and being permitted to cash out), their remaining balance is less than their initial and subsequent deposits for that Lobby session.
+
+(c) Neutral Participation: A user may experience neither a net gain nor a net loss if, upon choosing to leave (and being permitted to cash out), their remaining balance is equal to their total deposits for that specific Lobby session. Ties in the traditional tournament sense (as described in the original Section 5.4(c)) are not directly applicable here, as outcomes are based on individual balance changes.
+
+5.5 Lobby Payout and Cashout.
+
+At the conclusion of a user's participation in a Lobby:
+
+(a) Cashout of Gains: If a user chooses to leave the Lobby (and is permitted to cash out according to the platform's rules and any temporary restrictions), Noodle shall credit the user's account with any remaining balance exceeding their total deposits for that specific Lobby session.
+
+(b) Loss of Funds Upon Elimination: If a user is eliminated within the Lobby (e.g., "dies"), their remaining balance at the time of elimination is forfeited.
+
+(c) Cashout Restrictions: The platform reserves the right to implement restrictions on when and how users can cash out their remaining balance from a Lobby. These restrictions may include, but are not limited to: time-based limitations, minimum play time requirements, or temporary holds implemented at Noodle's discretion.
+
+5.6 Additional Lobby Terms.
+
+(a) Skill-Based Matching: Noodle may, at its sole discretion, implement systems to match players of similar skill levels when they enter a Lobby.
+
+(b) Variable Stakes Lobbies: Lobbies may have different entry fees or minimum deposit requirements. Players choose which Lobbies to enter based on their risk tolerance and available funds. The parameters of the Lobby, including any entry fees or deposit requirements, are binding once a player chooses to enter.
+
+
+6. SELF-CUSTODIAL WALLETS AND SMART CONTRACT INTERACTIONS
+
+
+6.1 Wallet Creation and Ownership. Upon creating a Noodle Account, a self-custodial digital wallet ("Wallet") will be automatically generated for you. You acknowledge and agree that you are solely and exclusively responsible for, and have absolute control over, this Wallet and the private keys, seed phrases, and any other credentials associated with it. Noodle does not have access to your Wallet, your private keys, or any other security information related to your Wallet.
+
+
+6.2 Your Responsibility for Wallet Security. You are solely responsible for maintaining the security of your Wallet and all associated credentials. This includes, but is not limited to, safeguarding your private keys, seed phrases, and login information. YOU ACKNOWLEDGE AND AGREE THAT IF YOU LOSE ACCESS TO YOUR WALLET OR YOUR WALLET'S CREDENTIALS, NOODLE WILL NOT BE ABLE TO ASSIST YOU IN REGAINING ACCESS OR RECOVERING ANY FUNDS HELD WITHIN THE WALLET. Noodle has no ability to access, recover, or reset your Wallet or its credentials under any circumstances.
+
+6.3 No Noodle Custody. You explicitly understand and agree that Noodle never takes custody of the funds held in your Wallet. The Wallet is self-custodial, meaning you are the sole custodian of your digital assets.
+
+6.4 Interaction with Smart Contracts. The Platform facilitates your interaction with decentralized smart contracts (self-executing agreements on a blockchain network) for participation in Games and Lobbies involving real money (the "Smart Contracts"). When you choose to participate, your entry and any associated funds are managed directly through these Smart Contracts, initiated by actions you take within your self-custodial Wallet via the Platform's interface.
+
+6.5 No Noodle Control or Responsibility for Smart Contract Interactions. YOU ACKNOWLEDGE AND AGREE THAT YOUR INTERACTION WITH SMART CONTRACTS IS SOLELY BETWEEN YOU AND THE SMART CONTRACT. ONCE FUNDS ARE SENT TO A SMART CONTRACT FROM YOUR SELF-CUSTODIAL WALLET, NOODLE DOES NOT HAVE CONTROL OVER THOSE FUNDS OR THE EXECUTION OF THE SMART CONTRACT. The Smart Contract operates according to its pre-defined logic on the blockchain. Noodle's role is limited to providing the Platform interface that allows you to interact with these Smart Contracts.
+
+6.6 Smart Contract Execution and Outcomes. The outcome of Games and Lobbies involving Smart Contracts will be determined by the rules and execution of the Smart Contract. Noodle's software platform facilitates your interaction with these Smart Contracts, but the execution and outcome are determined by the Smart Contract's code, not by Noodle.
+
+6.7 Irreversible Transactions and Your Responsibility. Transactions involving Smart Contracts are typically irreversible. Therefore, it is crucial that you carefully review and understand all transaction details before interacting with a Smart Contract. YOU ARE SOLELY RESPONSIBLE FOR ENSURING THE ACCURACY OF ANY INFORMATION AND INSTRUCTIONS YOU PROVIDE WHEN INTERACTING WITH SMART CONTRACTS THROUGH THE PLATFORM. NOODLE IS NOT RESPONSIBLE FOR ANY LOSS OF FUNDS OR ADVERSE OUTCOMES RESULTING FROM YOUR INTERACTION WITH SMART CONTRACTS, INCLUDING BUT NOT LIMITED TO ERRORS IN YOUR TRANSACTIONS OR UNINTENDED FUNCTIONALITY OF THE SMART CONTRACT.
+
+
+
+7.   ANTI-MONEY LAUNDERING.
+
+Users are explicitly prohibited from intentionally losing a Game for any reason, including, but not limited to, in connection with an attempt to transfer money to another user. Any use of Noodle’s platform other than to compete in good faith in a real-money contest in a skill-based game is strictly prohibited. Where Noodle determines, in its sole discretion, that a user has violated these terms: (a) Noodle may suspend and/or terminate the user’s Noodle Account; (b) Noodle may temporarily or permanently ban the user from the Platform, including through the user’s existing Noodle Account or any new Noodle Account; (c) Noodle may take any other action, including but not limited to legal action; and (d) the user is subject to forfeiture of the entire balance of funds in the user’s Noodle Account.
+
+
+8.   CHEATING POLICY.
+
+8.1   Prohibited Conduct.
+
+Cheating in any Game or Lobby is strictly prohibited. The following is a non-exhaustive list of prohibited conduct that Noodle considers to be cheating:
+
+
+(a)  utilizing a virtual private network (VPN);
+
+
+(b)  utilizing software except for the Noodle Platform and game software, bots or artificial intelligence (AI), neural net, or machine learning agents;
+
+
+(c)  utilizing simulators in or with device farms;
+
+
+(d)  colluding with other users or bots;
+
+
+(e)  manipulating or misrepresenting one’s own skill or perceived skill when entering or seeking to enter any Game or Lobby;
+
+
+(f)  submitting scores off-device (i.e., from a device other than the device used to participate in the Lobby) or otherwise through unauthorized, deceptive, or dishonest means;
+
+
+(g)  not providing or maintaining accurate information within a Noodle Account (including using fake phone numbers);
+
+
+(h)  opening or operating more than one Noodle Account;
+
+
+(i)  conducting or attempting to conduct fraudulent financial transactions through the Platform (including fraudulent payment card charge-backs and other transactions);
+
+
+(j)  exploiting an error in a Game that is not in the spirit of the Game or in good faith;
+
+
+(k)  taking advantage of a Mission in a way that was not intended or is not in good faith; and/or
+
+
+(l)  any other activity, act, or omission which is intended to facilitate an unfair advantage for any user, as determined by Noodle in its discretion.
+
+
+(m)  using a jailbroken device or any device with software not intended to run on the device which the platform is running on.
+
+
+(n)  using unfair gameplay exploits (bugs in a Game itself) to submit higher scores than the user would otherwise be able to obtain.
+
+
+(o)  using phone numbers for account creation or referral that are not issued by a cell phone provider and linked to a single device or subscriber identity module (SIM) card.
+
+
+8.2   Consequences.
+
+Where Noodle determines, in its sole discretion, that a user has cheated:
+
+
+(a)  Noodle may disqualify a user or equitably adjust or invalidate a user’s score, prize, or Mission achievement;
+
+
+(b)  Noodle may suspend and/or terminate the user’s Noodle Account;
+
+
+(c)  Noodle may temporarily or permanently ban the user from the Platform, including through the user’s existing Noodle Account or any new Noodle Account;
+
+
+(d)  Noodle may take any further action, including but not limited to legal action; and/or
+
+
+(e)  the user is subject to forfeiture of the entire balance of funds (both withdrawable cash, Bonus Cash, and pre-paid game credits) in the user’s Noodle Account.
+
+
+9.   INDEMNITY.
+
+You agree to indemnify and hold Noodle and its affiliates, and its and their directors, officers, members, principals, owners, employees, agents, representatives, contractors, successors, and assigns, harmless from any and all losses, damages, liabilities, claims, actions, judgments, awards, penalties, fines, costs and/or expenses (including reasonable attorneys’ fees) arising from or relating to any claim or demand made by any third party due to or arising out of (i) your use or misuse of the Platform; (ii) your User Data; (iii) your violation of this Agreement; or (iv) your violation of applicable laws or regulations. Noodle reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of Noodle. Noodle will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it.
+
+
+10.    DISCLAIMERS
+
+YOU EXPRESSLY AGREE THAT ACCESS TO AND USE OF THE PLATFORM IS AT YOUR SOLE RISK. THE PLATFORM IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. EXCEPT FOR THOSE WARRANTIES MADE AND EXPRESSLY IDENTIFIED AS WARRANTIES BY Noodle, Noodle DOES NOT MAKE, AND HEREBY DISCLAIMS, ANY REPRESENTATIONS OR WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, REGARDING (A) THE PLATFORM; (B) ANY PRODUCTS AND SERVICES OFFERED OR MADE AVAILABLE THROUGH THE PLATFORM; (C) THE ACTS OR OMISSIONS OF USERS THROUGH THE PLATFORM; (D) THIRD- PARTY SERVICES ON WHICH THE PLATFORM DEPENDS OR WITH WHICH THE PLATFORM INTEROPERATES; AND (E) ANY TRANSACTIONS INITIATED OR PROCESSED BY YOU ON OR THROUGH SUCH THIRD-PARTY SERVICES, INCLUDING (WITHOUT LIMITATION) IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON- INFRINGEMENT OF THIRD PARTY RIGHTS, AND ANY WARRANTIES ARISING BY COURSE OF DEALING OR CUSTOM OF TRADE. Noodle MAKES NO REPRESENTATION OR WARRANTY THAT ANY MATERIAL, CONTENT, PRODUCTS, OR SERVICES DISPLAYED ON OR OFFERED OR MADE AVAILABLE THROUGH THE PLATFORM ARE ACCURATE, COMPLETE, APPROPRIATE, RELIABLE, OR TIMELY. Noodle ALSO MAKES NO REPRESENTATIONS OR WARRANTIES THAT THE PLATFORM WILL MEET YOUR REQUIREMENTS, OR THAT YOUR ACCESS TO AND USE OF THE PLATFORM WILL BE UNINTERRUPTED OR ERROR-FREE, FREE OF VIRUSES, MALICIOUS CODE, OR OTHER HARMFUL COMPONENTS, OR OTHERWISE WILL BE SECURE.
+
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN SUCH JURISDICTIONS AND ONLY TO THE EXTENT DISALLOWED THIS DISCLAIMER WILL NOT APPLY.
+
+
+11. LIMITATION OF LIABILITY AND RELEASE.
+
+11.1 Limitation of Liability To the maximum extent permitted by applicable law and notwithstanding any other provision of this Agreement, in no event shall Noodle or any of its affiliates or suppliers (including any of its or their partners, officers, directors, members, managers, owners, principals, employees, agents, contractors, successors, or assignees) be liable to you for any indirect, special, incidental, exemplary, punitive, or consequential damages, whether arising in contract, equity, tort, or otherwise (including breach of warranty, negligence, and strict liability in tort), or for any damages arising from delay, loss of goodwill, loss of or damage to data, interruption in use or availability of data, loss of use of money or use of products, lost profits, revenue or savings (actual or anticipated), or other economic loss ensuing from or in connection with (a) the platform; (b) any products and services offered or made available through the platform; (c) any acts or omissions of users of the platform; (d) third party services which the platform uses or interoperates with; (e) the loss of access to your self-custodial Wallet or its credentials; or (f) any errors or irreversible transactions related to your interaction with Smart Contracts, even if Noodle or any of its affiliates or suppliers has been advised of the possibility of such damages. These limitations shall apply notwithstanding the failure of the essential purpose of any limited remedy.  
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF NOODLE AND ITS AFFILIATES AND SUPPLIERS (INCLUDING ANY OF ITS OR THEIR PARTNERS, OFFICERS, DIRECTORS, MEMBERS, MANAGERS, OWNERS, PRINCIPALS, EMPLOYEES, AGENTS, CONTRACTORS, SUCCESSORS, AND ASSIGNEES) TO YOU EXCEED THE GREATER OF (A) THE AMOUNT OF FEES PAID OR PAYABLE TO NOODLE BY YOU UNDER THIS AGREEMENT, AND (B) ONE HUNDRED U.S. DOLLARS ($100). THIS LIMITATION ON THE AMOUNT OF LIABILITY SHALL APPLY WHETHER A CLAIM OR LIABILITY ARISES IN CONTRACT, EQUITY, TORT, OR OTHERWISE (INCLUDING BREACH OF WARRANTY, NEGLIGENCE, AND STRICT LIABILITY IN TORT), AND EVEN IF NOODLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH CLAIM OR LIABILITY. THIS LIMITATION SHALL SPECIFICALLY SURVIVE A FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDIES THAT MAY BE PROVIDED IN THIS AGREEMENT.  
+
+SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OF CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU, AND YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.  
+
+11.2 Waiver of Claims. EACH TIME YOU ACCESS THE PLATFORM, EXCEPT WITH RESPECT TO ACCESS AND USE OF THE Noodle APP, YOU EXPRESSLY RELEASE ANY AND ALL CLAIMS YOU HAVE AGAINST NOODLE
+
+SUCH RELEASE INCLUDES A WAIVER UNDER SECTION 1542 OF THE CIVIL CODE OF THE STATE OF CALIFORNIA WHICH READS AS FOLLOWS:
+
+“A general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.”  
+
+YOU FURTHER EXPRESSLY RELEASE NOODLE FROM ANY AND ALL CLAIMS, ACTIONS, DEMANDS, AND DAMAGES (WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE) OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, SUSPECTED AND UNSUSPECTED, DISCLOSED AND UNDISCLOSED, ARISING OUT OF OR IN ANY WAY CONNECTED WITH YOUR SELF-CUSTODIAL WALLET, INCLUDING BUT NOT LIMITED TO LOSS OF ACCESS OR FUNDS, AND ANY CLAIMS ARISING OUT OF OR RELATED TO YOUR INTERACTIONS WITH SMART CONTRACTS. 
+
+
+12.    TERM AND TERMINATION.
+
+Subject to this Section, this Agreement will remain in full force and effect while you use the Platform. We may (a) suspend your rights to use the Platform (including your Noodle Account), (b) terminate this Agreement, and/or (c) ban you from the Platform at any time and for any reason whatsoever, at our sole and complete discretion. Upon termination of this Agreement, your Noodle Account and right to access and use the Platform will terminate immediately. You understand that any termination of your Noodle Account may involve deletion of some or all of your User Data from the Platform or our databases. Noodle will not have any liability whatsoever to you for any termination of this Agreement, including for termination of your Noodle Account or deletion of your User Data. Sections 3.4, 4.4, 4.5, and 5 - 12 of this Agreement will survive termination.
+
+
+13.    COPYRIGHT POLICY.
+
+Noodle seeks to respect the intellectual property of others and asks that users of our Platform do the same. In connection with our Platform, we have adopted and implemented a policy respecting copyright law that provides for the removal of any infringing materials. If you believe that any portion or content of our Platform unlawfully infringes the copyright(s) in a work and you wish to have the allegedly infringing material removed, the following information in the form of a written notification must be provided to us us by sending an email to legal@Noodlearcade.com:
+
+
+(a) Your physical or electronic signature;
+
+
+(b) Description of the copyrighted work(s) that you claim has been infringed;
+
+
+(c) Description of the material on our services that you claim is infringing and that you request us to remove;
+
+
+(d) Sufficient information to permit us to locate such material; Your address, telephone number, and e-mail address;
+
+
+(e) A statement that you have a good-faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law; and
+
+
+(f) A statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.
+
+
+Please note that any misrepresentation of material fact (falsity) in a written notification may subject the complaining party to liability for any damages, costs and attorney’s fees incurred by us in connection with the written notification and allegation of copyright infringement.
+
+
+14.    CHOICE OF LAW, ARBITRATION AGREEMENT, JURY TRIAL WAIVER, CLASS ACTION WAIVER, AND FORUM SELECTION.
+
+14.1   Choice of Law.
+
+This Agreement is governed by the laws of the State of California, without regard to conflict of law provisions.
+
+
+14.2   Pre-Arbitration Dispute Resolution.
+
+We are always interested in resolving disputes amicably and efficiently, and most user concerns can be resolved quickly and to the user’s satisfaction by emailing us at blendstationgaming@gmail.com. If such efforts prove unsuccessful, a party may seek to submit the dispute to arbitration by sending to the other party, by certified mail, a written Notice of Dispute. The Notice of Dispute to us should be sent to our address identified in this Agreement below (“Notice Address”).
+
+
+14.3   Arbitration Agreement.
+
+Except as identified in paragraph 14.4, below, disputes between you and Noodle, or you and any other user of the Noodle software, apps, or platform arising out of, relating to, or in connection with the Platform or any of the real cash lobbies and any interpretation or application of these Terms of Use or this arbitration provision shall be exclusively settled through binding arbitration pursuant to the then-current rules of the American Arbitration Association (“AAA”) for consumer arbitration with the place of arbitration, unless conducted remotely pursuant to the aforementioned rules, being San Francisco, California. There is no judge or jury in arbitration. Arbitration procedures are simpler and more limited than rules applicable in court and review by a court is limited. YOU AND Noodle AGREE THAT ANY SUCH ARBITRATION SHALL BE CONDUCTED ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION. Notwithstanding any provision in this Agreement to the contrary, if the class-action waiver in the prior sentence is deemed invalid or unenforceable neither you nor we will be entitled to arbitration. This arbitration agreement is subject to the Federal Arbitration Act. The arbitrator’s award may be entered in any court of competent jurisdiction.
+
+
+Notwithstanding any provision in this Agreement to the contrary, we agree that if Noodle makes any future change to this dispute resolution provision, it will not apply to any individual claim(s) that you had already provided notice of to Noodle. Information on AAA and how to start arbitration can be found at www.adr.org.
+
+
+14.4   Selection of Arbitration.
+
+For any dispute in an amount less than $12,500 a party may select to have such dispute heard in the California Superior Court, in and for the County of San Francisco, in a Small  Claims jurisdiction court. Prior to initiating any dispute the party initiating such dispute will notify the other party of the potential claim and their ability to select between arbitration pursuant to paragraph 14.3, above, or Small Claims process identified in this section. Such notice may be by email and text at the email or text address on file with the the Noodle or for Noodle, as identified herein. If no response is received within three (3)  days on which the courts of California are open for business, the responding party agrees that they have waived the right to elect between the alternative dispute processes and the party issuing such notice's choice will be binding.
+
+
+14.5   Confidentiality.
+
+All aspects of the arbitration proceeding, and any ruling, decision, or award by the arbitrator, will be strictly confidential for the benefit of all parties.
+
+
+14.6   Future Changes to Arbitration Agreement.
+
+Notwithstanding any provision in this Agreement to the contrary, we agree that if we make any future change to this, Section 14, other than a change to the Notice Address, while you are a user of the Platform, you may reject any such change by ceasing all use of the Platform and sending us written notice within thirty (30) calendar days of the change. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this, Section 14, as of the date you first accepted this Agreement (or accepted any subsequent changes to this Agreement).
+
+
+14.7   Forum Selection.
+
+If the arbitration procedure in this Section is found unenforceable or not to apply for a given dispute, then the parties agree that the proceeding must be brought exclusively in a court of competent subject matter jurisdiction with geographic jurisdiction over the County of San Francisco, California, or any part thereof.
+
+
+15.    CONSENT TO RECEIVE NOTICES ELECTRONICALLY.
+
+You consent to receive electronically any agreements, notices, disclosures, and other communications (collectively, “Notices”) to which this Agreement refers including, without limitation, by e-mail, posting information and materials online at the Website, or other electronic communication technology that may hereafter be adopted or developed. You agree that all Notices that we provide to you electronically satisfy any legal requirements that such communications be in writing. Also, please note that your consent to receive notices is separate from any election that you make with respect to receipt of marketing communications, which is discussed under the Privacy Policy.
+
+
+16.    GENERAL.
+
+16.1   Availability.
+
+Noodle will make reasonable efforts to keep the Platform operational. However, certain technical difficulties, routine maintenance/upgrades and other events outside the control of Noodle may, from time to time, result in temporary interruptions to the Platform. In addition, Noodle reserves the right at any time and from time to time to modify or discontinue (on a temporary or permanent basis) certain functions of the Website or Services or the entirety of the Platform, with or without notice.
+
+
+16.2   No Support or Maintenance.
+
+You acknowledge and agree that Noodle will have no obligation to provide you with any support or maintenance in connection with the Platform.
+
+
+16.3   Changes to Terms of Use.
+
+You agree that Noodle may modify this Agreement at any time by adding new terms or by deleting or amending existing terms. Such modifications will be effective as of the date that the updated terms are posted on Noodle’s website or through the Platform (“Effective Date”). Your continued access to and use of the Platform after the Effective Date (except for the withdrawal of any funds in your account) constitutes your acknowledgment of such modifications and your agreement to abide, and be bound, by the Agreement as modified. If you do not accept such modification(s), then you must stop using the Platform.
+
+
+16.4   Access and Use Where Prohibited.
+
+Access to and use of the Platform are unauthorized in any jurisdiction that does not give effect to all provisions of the Agreement.
+
+
+16.5   Access and Use from Eligible Locations.
+
+Unless otherwise explicitly stated, all marketing or promotional materials found on or accessible through the Platform are solely directed to individuals located in the Eligible Locations. Noodle reserves the right to limit, in its sole discretion, the provision and quantity of any feature, product, or service to any person or geographic area. Any offer for any feature, product, or service made on or through the Platform is void where prohibited.
+
+
+16.6   Miscellaneous.
+
+This Agreement constitutes the entire agreement between you and us regarding the use of the Platform. Our failure to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision, nor shall any single or partial exercise by Noodle of any right or power hereunder preclude further exercise of that or any other right hereunder. The section titles in this Agreement are for convenience only and have no legal or contractual effect. The word “including” means “including without limitation.” If any provision of this Agreement is, for any reason, held to be invalid or unenforceable, the other provisions of this Agreement will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law. Nothing contained herein shall be construed to establish an employment, partnership, or joint venture relationship between you and Noodle. This Agreement, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Noodle’s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void. The terms of this Agreement shall be binding upon assignees. In the event Noodle’s performance of this Agreement, or any obligation hereunder, is prevented, restricted, or interfered with by reason of acts of God or of the public enemy, acts of the Government in its sovereign capacity, fires, floods, epidemic, pandemic, public health emergency, strikes, picketing or boycotts, or any other circumstances caused by natural occurrences or third party actions beyond the reasonable control and without the fault or negligence of Noodle, Noodle shall be excused from such performance on a day-to-day basis to the extent of such prevention, restriction or interference.
+
+
+16.7   Severability.
+
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable for any reason by a court or tribunal of competent jurisdiction, such provision shall be modified to the minimum extent necessary to make it valid, legal, and enforceable while preserving its intent. If such modification is not possible, said provision shall be severed from this Agreement. The invalidity, illegality, or unenforceability of any provision shall not affect the validity, legality, or enforceability of any other provision of this Agreement, which shall remain in full force and effect.
+

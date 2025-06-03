@@ -1,0 +1,10 @@
+Add a database to store user data, I still cant withdraw so fix that. also clicking the lightening bolt does not actually disconnect it just shows this page again(image) so make it so it will completely disconnect you
+I ALSO WANT YOU TO BASE FUNCTIONALITY OFF NOODLE.gg as it is a good example of what I want the site to be similar to, so can you add features like logging in with gmail (USE PRIVY), depositing with either card or manually by sol wallet, having a settings menu like the second image , having a terms of service, etc
+BECAUSE YOU ARE GOING TO SWITCH TO PRIVY I WANT YOU TO INTEGRATE THE OPTION TO CREATE AN ACCOUNT VIA GOOGLE OR EMAIL, wallet, etc
+I WANT TO divide the avaliable games section into elos, I want you to make so that if a significantly lower elo player joins a higher elo player they have to confirm it
+Also when people create accounts or connect via their wallet I want you to make them create name and add a profile picture like chess.com, make it so no players can have the same names
+ALSO if possible when they sign up, after create their account make them chose a elo level like in the chess.com picture
+if possible can you make it so if players want to instead they can connect their chess.com account and it will link to their elo to their chesswager account
+ALSO CAN YOU change the bet amount/time control chooser, make it more cleaner, for the bet amount make it so you can type in the amount. and for the time control can you make it a cool dropdown smooth animated chooser, also its white so can you make it fit in with the colors more, same with the bet amount.
+I WANT ALL THIS TO BE FUNCTIONAL LIKE THIS IS GOING TO THE BE THE FINAL SITE BEFORE I RELEASE TO MILLIONS I WANT THE SITE FULLY FINISHED AND ABLE TO WORK. CAN YOU ALSO ADD A CHAT BETWEEN OPPONENTS SO THEY CAN TALK.
+can you make a dev only access button in the settings that will bring me to the same site but allow me to play a bot to test the functionallity can you make it so they have to put in a secret code the code is 081809
